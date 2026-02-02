@@ -1,0 +1,45 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Nyze</title>
+        <item>
+            <title>1.301</title>
+            <pubDate>Sun, 01 Feb 2026 19:24:07 -0500</pubDate>
+            <sparkle:version>12</sparkle:version>
+            <sparkle:shortVersionString>1.301</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.5</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <ul>
+                    <li>beat drop mgr updates</li>
+                    <li>pack preview enhancements</li>
+                    <li>dashboard additions</li>
+                </ul>
+            ]]></description>
+            <enclosure url="https://github.com/camherring7/Nyze-Distribution/releases/latest/download/Nyze-1.301.dmg" length="28417064" type="application/octet-stream" sparkle:edSignature="KRYtxqNKbtX26PvqR0txNG+KySiZ0/16+75/DqWSMea/tsR9nie4L9ePKqKETJeV8dexzoCzlGWSm9kCWJF2Cg=="/>
+        </item>
+        <item>
+            <title>1.30</title>
+            <pubDate>Sat, 31 Jan 2026 21:20:44 -0500</pubDate>
+            <sparkle:version>11</sparkle:version>
+            <sparkle:shortVersionString>1.30</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.5</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/camherring7/Nyze-Distribution/releases/download/v1.30/Nyze-1.30.dmg" length="23320391" type="application/octet-stream" sparkle:edSignature="WDaxEiZNuWUTcOgQ55oUkL43ezuVyNXgOFKSwPZOmIF8pv70oCqhOIPPERSaoGOupbdT0QdeFr40Td1QCeJdDw=="/>
+        </item>
+        <item>
+            <title>1.28</title>
+            <pubDate>Wed, 28 Jan 2026 13:08:02 -0500</pubDate>
+            <sparkle:version>9</sparkle:version>
+            <sparkle:shortVersionString>1.28</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.5</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/camherring7/Nyze-Distribution/releases/download/v1.28/Nyze-1.28.dmg" length="23321155" type="application/octet-stream" sparkle:edSignature="oVrAfhORx/Y5NVOVXk8cGDD8XnnJQTaZ1zSeD21HarjGTTN7yC2y97PB/IxZg2WrAFkCGMmA3LTwgd/abTALCQ=="/>
+        </item>
+        <item>
+            <title>1.27</title>
+            <pubDate>Sun, 28 Dec 2025 03:24:31 -0500</pubDate>
+            <sparkle:version>8</sparkle:version>
+            <sparkle:shortVersionString>1.27</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.5</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/camherring7/Nyze-Distribution/releases/download/v1.27/Nyze-1.27.dmg" length="22346927" type="application/octet-stream" sparkle:edSignature="eDG8qyzNWzFYzriH5klggjb76rHRl+KCFRZJY4McpFYs0GdAEPkT03b0KWqvSzSkFg0hobipZfXGLl4rpT6oBA=="/>
+        </item>
+    </channel>
+</rss>
