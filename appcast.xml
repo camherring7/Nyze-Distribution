@@ -3,6 +3,14 @@
     <channel>
         <title>Nyze</title>
         <item>
+            <title>2.14</title>
+            <pubDate>Wed, 01 Jul 2026 13:50:26 -0400</pubDate>
+            <sparkle:version>13</sparkle:version>
+            <sparkle:shortVersionString>2.14</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.5</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/camherring7/Nyze-Distribution/releases/download/v2.14/Nyze-2.14.dmg" length="26772758" type="application/octet-stream" sparkle:edSignature="/6I0pOw6dgjjp3RdzYDQMXqk5IdesJtiYW2Z2T+X1Rd2ViwFFfb0z8vYN9asBRf82LQ2YkE92sdV9Ah/vskFCg=="/>
+        </item>
+        <item>
             <title>1.301</title>
             <pubDate>Sun, 01 Feb 2026 19:24:07 -0500</pubDate>
             <sparkle:version>12</sparkle:version>
