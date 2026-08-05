@@ -3,6 +3,23 @@
     <channel>
         <title>Nyze</title>
         <item>
+            <title>2.18</title>
+            <pubDate>Wed, 05 Aug 2026 16:41:37 -0400</pubDate>
+            <sparkle:version>17</sparkle:version>
+            <sparkle:shortVersionString>2.18</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.5</sparkle:minimumSystemVersion>
+            <description><![CDATA[<ul>
+    <li>Performance and reliability improvements</li>
+    <li>Fixed a freeze that could occur during library syncing</li>
+    <li>Bug fixes</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/camherring7/Nyze-Distribution/releases/download/v2.18/Nyze-2.18.dmg" length="26300318" type="application/octet-stream" sparkle:edSignature="L2BVawyeQT5qwpMSbVY78U11h9diAWBSCuTUBqn5NIPZKoYBpKN8+ocO2wavEOhvu5zpp7xEUwoD9oFlDzXaAg=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/camherring7/Nyze-Distribution/releases/download/v2.18/Nyze17-15.delta" sparkle:deltaFrom="15" length="6523534" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="858560" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="8yydw5pxrc8Hyxpfq/3y2LZGugncveIhsZ2oh54g7WUwQFnfwP5RZJxRMt/3axf39lInvvxH7J0NVeIMqPVxAA=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>2.16</title>
             <pubDate>Thu, 02 Jul 2026 14:07:13 -0400</pubDate>
             <sparkle:version>15</sparkle:version>
@@ -13,7 +30,7 @@
     <li>UI improvements</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/camherring7/Nyze-Distribution/releases/download/v2.16/Nyze-2.16.dmg" length="26773717" type="application/octet-stream" sparkle:edSignature="afC7ecWikWh5+ZkPsnV1eVnY/mqPJfTcEBOeKGpq9TjdakZa7uUg6TRtsUBGZ252QZFq4/PXoUg7gfhaoNWoBQ=="/>
+            <enclosure url="https://github.com/camherring7/Nyze-Distribution/releases/download/v2.18/Nyze-2.16.dmg" length="26773717" type="application/octet-stream" sparkle:edSignature="afC7ecWikWh5+ZkPsnV1eVnY/mqPJfTcEBOeKGpq9TjdakZa7uUg6TRtsUBGZ252QZFq4/PXoUg7gfhaoNWoBQ=="/>
         </item>
         <item>
             <title>2.15</title>
@@ -22,14 +39,6 @@
             <sparkle:shortVersionString>2.15</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.5</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/camherring7/Nyze-Distribution/releases/download/v2.15/Nyze-2.15.dmg" length="26892045" type="application/octet-stream" sparkle:edSignature="NRLqhgw0zKNVYaVOayVFKvc9rwHqH+lkG7V+jF4KjeJQrq8O8bAQ9GJ+gUHBENRaALKPX6iSMmxhE1aeTSBHDA=="/>
-        </item>
-        <item>
-            <title>2.14</title>
-            <pubDate>Wed, 01 Jul 2026 13:50:26 -0400</pubDate>
-            <sparkle:version>13</sparkle:version>
-            <sparkle:shortVersionString>2.14</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.5</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/camherring7/Nyze-Distribution/releases/download/v2.14/Nyze-2.14.dmg" length="26772758" type="application/octet-stream" sparkle:edSignature="/6I0pOw6dgjjp3RdzYDQMXqk5IdesJtiYW2Z2T+X1Rd2ViwFFfb0z8vYN9asBRf82LQ2YkE92sdV9Ah/vskFCg=="/>
         </item>
     </channel>
 </rss>
