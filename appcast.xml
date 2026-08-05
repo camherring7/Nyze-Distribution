@@ -3,6 +3,18 @@
     <channel>
         <title>Nyze</title>
         <item>
+            <title>2.19</title>
+            <pubDate>Wed, 05 Aug 2026 17:36:33 -0400</pubDate>
+            <sparkle:version>18</sparkle:version>
+            <sparkle:shortVersionString>2.19</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.5</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/camherring7/Nyze-Distribution/releases/download/v2.19/Nyze-2.19.dmg" length="26309788" type="application/octet-stream" sparkle:edSignature="mqA+YeIFhhDJ9xdaWvd72Fj7wCAfc2kjBkndt11/n2x04xw2uceRQk9jhJzQrRWiqciBpZtPoMKIY15ySG/HBA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/camherring7/Nyze-Distribution/releases/download/v2.19/Nyze18-17.delta" sparkle:deltaFrom="17" length="2094982" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="858560" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="G3KrJIjsb1WgyNubCWbWH38MuX+fD+qzj2cTZCZRPA4Fg+DFo9XaPTtstTws+Eyy+2r88EaCDQyyRnqvwRmMBw=="/>
+                <enclosure url="https://github.com/camherring7/Nyze-Distribution/releases/download/v2.19/Nyze18-15.delta" sparkle:deltaFrom="15" length="6510274" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="858560" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="8khfWGDiZy5gB0kx63XvYTa3gEtlg4bBoBqHXK85HxDPmgEMQo3iB89tdsKozCP+32Ys+qFF9EcFJTRHKIWQCg=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>2.18</title>
             <pubDate>Wed, 05 Aug 2026 16:41:37 -0400</pubDate>
             <sparkle:version>17</sparkle:version>
@@ -14,7 +26,7 @@
     <li>Bug fixes</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/camherring7/Nyze-Distribution/releases/download/v2.18/Nyze-2.18.dmg" length="26300318" type="application/octet-stream" sparkle:edSignature="L2BVawyeQT5qwpMSbVY78U11h9diAWBSCuTUBqn5NIPZKoYBpKN8+ocO2wavEOhvu5zpp7xEUwoD9oFlDzXaAg=="/>
+            <enclosure url="https://github.com/camherring7/Nyze-Distribution/releases/download/v2.19/Nyze-2.18.dmg" length="26300318" type="application/octet-stream" sparkle:edSignature="L2BVawyeQT5qwpMSbVY78U11h9diAWBSCuTUBqn5NIPZKoYBpKN8+ocO2wavEOhvu5zpp7xEUwoD9oFlDzXaAg=="/>
             <sparkle:deltas>
                 <enclosure url="https://github.com/camherring7/Nyze-Distribution/releases/download/v2.18/Nyze17-15.delta" sparkle:deltaFrom="15" length="6523534" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="858560" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="8yydw5pxrc8Hyxpfq/3y2LZGugncveIhsZ2oh54g7WUwQFnfwP5RZJxRMt/3axf39lInvvxH7J0NVeIMqPVxAA=="/>
             </sparkle:deltas>
@@ -30,15 +42,7 @@
     <li>UI improvements</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/camherring7/Nyze-Distribution/releases/download/v2.18/Nyze-2.16.dmg" length="26773717" type="application/octet-stream" sparkle:edSignature="afC7ecWikWh5+ZkPsnV1eVnY/mqPJfTcEBOeKGpq9TjdakZa7uUg6TRtsUBGZ252QZFq4/PXoUg7gfhaoNWoBQ=="/>
-        </item>
-        <item>
-            <title>2.15</title>
-            <pubDate>Thu, 02 Jul 2026 11:50:44 -0400</pubDate>
-            <sparkle:version>14</sparkle:version>
-            <sparkle:shortVersionString>2.15</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.5</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/camherring7/Nyze-Distribution/releases/download/v2.15/Nyze-2.15.dmg" length="26892045" type="application/octet-stream" sparkle:edSignature="NRLqhgw0zKNVYaVOayVFKvc9rwHqH+lkG7V+jF4KjeJQrq8O8bAQ9GJ+gUHBENRaALKPX6iSMmxhE1aeTSBHDA=="/>
+            <enclosure url="https://github.com/camherring7/Nyze-Distribution/releases/download/v2.19/Nyze-2.16.dmg" length="26773717" type="application/octet-stream" sparkle:edSignature="afC7ecWikWh5+ZkPsnV1eVnY/mqPJfTcEBOeKGpq9TjdakZa7uUg6TRtsUBGZ252QZFq4/PXoUg7gfhaoNWoBQ=="/>
         </item>
     </channel>
 </rss>
